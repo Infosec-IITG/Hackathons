@@ -2,6 +2,19 @@
 
 CogniHaven is an enterprise-grade, real-time security solution designed to replace static authentication methods with **Continuous Behavioral Identity Verification**. By leveraging non-invasive telemetry and high-dimensional anomaly detection, CogniHaven establishes a persistent "Behavioral Identity Shield" that protects user accounts against automated bots, credential stuffing, and sophisticated account takeover (ATO) attacks.
 
+
+---
+
+## 👥 Team Members & Contributions
+
+* **Kushal N**
+* **Hiya Shah**
+* **Krish Barwar**
+
+---
+
+
+
 ---
 
 ## 🏗️ System Architecture
